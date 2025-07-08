@@ -1,4 +1,4 @@
-# discord_sender
+# notify_discord
 Basic shell script to send notifications to discord
 
 ## Usage
