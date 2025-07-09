@@ -1,5 +1,16 @@
-# notify_discord
-Basic shell script to send notifications to discord
+# notify_discord  
+Basic shell script to send notifications to Discord
+
+## Dependencies
+
+This script requires the following:
+
+- [`curl`](https://curl.se/)
+- [`jq`](https://jqlang.org/)
+
+Make sure these are installed and accessible in your system's PATH.
 
 ## Usage
-```some_command && ./notify_discord.sh "Your message here"```
+
+```sh
+some_command && ./notify_discord.sh "Your message here"
