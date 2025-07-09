@@ -5,6 +5,7 @@ Basic shell script to send notifications to Discord
 
 This script requires the following:
 
+- [`bash`](https://www.gnu.org/software/bash/)
 - [`curl`](https://curl.se/)
 - [`jq`](https://jqlang.org/)
 
