@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# Description = Simple Discord notification script
+# Author(s) = Noire Networks
 # Usage: some_command && ./notify_discord.sh "Your message here"
 
 # Set your Discord webhook URL here
