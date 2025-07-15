@@ -1,5 +1,5 @@
 # notify_discord  
-Basic shell script to send notifications to Discord.
+Simple shell script to send notifications to Discord.
 
 ## Dependencies
 
